@@ -23,5 +23,7 @@ Production-Ready Engineering: As a published IEEE researcher, I treat code as a 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omiiii274&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=omiiii274&theme=radical&column=4&margin-w=15&title=Stars,Commits,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=omiiii274&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omiiii274&show_icons=true&theme=radical)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
