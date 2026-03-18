@@ -1,28 +1,62 @@
-# 💫 About Me:
-I am a Data Scientist & AI Engineer specializing in high-consequence predictive modeling across the Healthcare (RWE/HEOR) and Financial Services sectors. With an MSc from Oxford Brookes, my work focuses on bridging the gap between raw, unstructured data and production-grade clinical or financial intelligence.
+# Hi, I'm Omkar Salekar 👋
 
-What I Bring to the Table:
+**Data Scientist & AI Engineer** · MSc Data Science & AI @ Oxford Brookes University
+PSI Member (Statisticians in the Pharmaceutical Industry) · IEEE Published Researcher · Based in UK 🇬🇧
 
-Domain-Specific ML: I don't just "run models." I build solutions tailored to sector-specific challenges, such as handling extreme class imbalance in Credit Card Fraud or navigating the complexities of the MIMIC-III clinical database for patient readmission.
+> I build healthcare analytics tools and NLP pipelines that turn messy clinical and financial data into decisions that matter.
 
-Linguistic Intelligence: I specialize in NLP Automation, having engineered an Active Learning tool for Systematic Literature Review (SLR) that achieved a 60% reduction in manual screening workloads.
+---
 
-Statistical Rigor: Expert in Evidence Development, utilizing R Shiny and GLMs to transform raw NHS and global health data into decision-support dashboards.
+## 🔬 Featured Projects
 
-Production-Ready Engineering: As a published IEEE researcher, I treat code as a product. Every repository I build is containerized with Docker, version-controlled, and "audit-ready" for deployment in regulated environments like Finance and MedTech.
+| Project | Tech | What it does |
+|---|---|---|
+| [🏥 UK Healthcare Analytics Portal](https://github.com/omiiii274/UK-healthcare-analytics-portal) | R Shiny · GLM · PostgreSQL | Interactive NHS A&E dashboard with cost-effectiveness analysis (Tornado diagrams, CEACs, CE planes) |
+| [🩺 Patient Readmission Predictor](https://github.com/omiiii274/patient-readmission-predictor) | Python · scikit-learn · Gradient Boosting | Predicts 30-day readmission risk from EHR data — AUC 0.82 |
+| [🤖 LLM vs Human Text Classifier](https://github.com/omiiii274/LLM-vs-Human-Text-Classifier) | Python · NLP · SHAP · LIME | Detects AI-generated text using linguistic fingerprints + explainable AI |
+| [💳 Credit Card Fraud Detection](https://github.com/omiiii274/Credit-card-fraud-detection-system) | Python · SMOTE · Cost-sensitive learning | Production-grade fraud detection handling 0.17% fraud rate |
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omkar_salekar_30) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-salekar-23188026b/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omkarsalekar2021@gmail.com) 
+## 🛠 Tech Stack
 
-# 💻 Tech Stack:
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=omiiii274&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=omiiii274&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omiiii274&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Languages**
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=omiiii274&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Machine Learning & NLP**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+
+**Engineering & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Domain Expertise**
+
+`Real-World Evidence (RWE)` · `HEOR` · `Financial Risk` · `NLP Automation` · `Systematic Literature Reviews`
+
+---
+
+## 📚 Publications & Memberships
+
+- 📄 **IEEE Published** — *AI-Powered Smart Cities* (Sep 2024) — 88% improvement in urban resource prediction accuracy
+- 🏛 **PSI Member** — Statisticians in the Pharmaceutical Industry (Nov 2025 – Present)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-salekar-23188026b)
+[![Email](https://img.shields.io/badge/Email-omkarsalekar2021%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omkarsalekar2021@gmail.com)
+
+---
+
+*Open to Data Science internships and graduate roles in Healthcare Analytics, HEOR, and Financial Risk — UK based, available from Summer 2026.*
