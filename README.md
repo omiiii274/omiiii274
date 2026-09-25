@@ -1,7 +1,7 @@
 # Hi, I'm Omkar Salekar 👋
 
 **Data Scientist & AI Engineer** · MSc Data Science & AI @ Oxford Brookes University
-PSI Member (Statisticians in the Pharmaceutical Industry) · IEEE Published Researcher · Based in UK 🇬🇧
+Member of Pharmaceutical statistician industry and Royal statistics Society. · Based in UK 🇬🇧
 
 > I build healthcare analytics tools and NLP pipelines that turn messy clinical and financial data into decisions that matter.
 
