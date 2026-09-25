@@ -39,18 +39,6 @@ Member of Pharmaceutical statistician industry and Royal statistics Society. · 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Domain Expertise**
-
-`Real-World Evidence (RWE)` · `HEOR` · `Financial Risk` · `NLP Automation` · `Systematic Literature Reviews`
-
----
-
-## 📚 Publications & Memberships
-
-- 📄 **IEEE Published** — *AI-Powered Smart Cities* (Sep 2024) — 88% improvement in urban resource prediction accuracy
-- 🏛 **PSI Member** — Statisticians in the Pharmaceutical Industry (Nov 2025 – Present)
-
----
 
 ## 📫 Let's Connect
 
