@@ -46,5 +46,3 @@ Member of Pharmaceutical statistician industry and Royal statistics Society. · 
 [![Email](https://img.shields.io/badge/Email-omkarsalekar2021%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omkarsalekar2021@gmail.com)
 
 ---
-
-*Open to Data Science internships and graduate roles in Healthcare Analytics, HEOR, and Financial Risk — UK based, available from Summer 2026.*
